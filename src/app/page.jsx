@@ -9,7 +9,7 @@ export default function LandingPage() {
         <div className="space-y-4">
           <div className="text-lg font-semibold">Schedule Your Free Strategy Call:</div>
           <iframe
-            src="https://calendly.com/your-scheduling-link"
+            src="https://calendly.com/dustinjones424/nynecom-strategy-call"
             width="100%"
             height="500"
             className="border-none rounded-xl"
