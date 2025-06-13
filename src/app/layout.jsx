@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'AI Outreach Landing Page',
-  description: 'Get more leads using AI + cold email',
+  title: "AI Outreach | Dustin Jones",
+  description: "Landing page for NyneCom demo",
 };
 
 export default function RootLayout({ children }) {
