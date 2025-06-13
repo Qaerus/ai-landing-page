@@ -1,4 +1,3 @@
-
 export function Card({ title, description }) {
   return (
     <div className="border rounded-lg p-4 shadow-md bg-white">
